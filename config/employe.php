@@ -3,22 +3,22 @@
     return [
         [
             'name' => 'Nicola',
-            'department' => 'undifined',
+            'departement' => 'undifined',
             'company' => 'vattela pesca'
         ],        
         [
             'name' => 'Carlos',
-            'department' => 'undifined',
+            'departement' => 'undifined',
             'company' => 'vattela pesca'
         ],        
         [
             'name' => 'Doraemon',
-            'department' => 'undifined',
+            'departement' => 'undifined',
             'company' => 'vattela pesca'
         ],        
         [
             'name' => 'Pedro',
-            'department' => 'undifined',
+            'departement' => 'undifined',
             'company' => 'vattela pesca'
         ],
     ];
